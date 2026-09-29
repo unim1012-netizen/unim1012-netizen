@@ -5,7 +5,7 @@ AI 应用开发者 · SwiftUI / Web 全栈
 ## 精选项目
 
 ### 求职助手 · AI 岗位匹配分析
-[在线体验](https://unim1012-netizen.github.io/) · [项目仓库](https://github.com/unim1012-netizen/unim1012-netizen.github.io)
+[在线体验](https://unim1012-netizen.github.io/Job-Offer-Assistant/) · [项目仓库](https://github.com/unim1012-netizen/Job-Offer-Assistant)
 
 输入求职意向与个人经历，自动联网检索真实招聘信息，逐岗位打分并输出匹配度分析报告。
 
