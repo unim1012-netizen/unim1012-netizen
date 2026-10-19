@@ -21,6 +21,15 @@ macOS 原生本地任务日历：输入任务 → 拖进月历排期 → 边缘�
 - **交互核心**：月历拖拽排期——拖中间平移、拖左右边缘改起止日，按天吸附、跨周自动换行
 - **技术栈**：SwiftUI · SwiftPM · macOS 13+
 
+### Markdown 转换器 · macOS 拖放式文档转 Markdown
+[项目仓库](https://github.com/unim1012-netizen/markdown-converter-macos)
+
+把 PDF、Word、PPT、Excel 等文件直接拖到图标上，自动转换成同名 `.md` 文件，基于微软开源 markitdown 构建。
+
+- **零门槛拖放**：AppleScript droplet 应用，无需打开终端；一次可拖多个文件，同名自动加 `_1` 不覆盖
+- **一键构建**：`./build.sh` 自动安装依赖并编译成可拖放 App，MIT 开源
+- **技术栈**：Python · AppleScript · microsoft/markitdown
+
 ## 技术方向
 - AI 应用开发（Coze 工作流 / Agent / API 集成）
 - macOS 原生开发（SwiftUI / 拖拽交互 / 多主题系统）
